@@ -1,2 +1,2 @@
 # Mandelbrot-Renderer-CUDA
-Mandelbrot set render running on CUDA
+Mandelbrot set renderer running on CUDA
